@@ -1,6 +1,6 @@
 # Undergrad Women In Tech Resources
 
-This is a list of resources that I have compiled for undergrad women in tech.  They are all based on personal experience and things that I have learnt along the way.  This is by no means a comprehensive list nor am I affiliated with any of the organizations or writers listed below.
+This is a list of resources that I have compiled for undergrad women in tech.  They are all based on personal experience and things that I have learnt along the way in my three years of undergrad at the University of Washington.  This is by no means a comprehensive list nor am I affiliated with any of the organizations listed below.
 
 Please feel free to contribute to this resource list.  To do so, either:
 
@@ -30,7 +30,7 @@ See this resource for ways to help you land that internship: [tech-internship-re
 ## Scholarship Resources
 
 * [Women Techmakers Scholarship Program](https://www.womentechmakers.com/scholars): Great scholarship opportunity that constitutes of a retreat and private community as well.
-* [Microsoft Tuition & Diversity Conference Scholarship](https://careers.microsoft.com/us/en/usscholarshipprogram): Great way to reduce tuition costs
+* [Microsoft Tuition & Diversity Conference Scholarship](https://careers.microsoft.com/us/en/usscholarshipprogram): Great way to reduce tuition costs.
 * [Palantir Women In Technology Scholarship](https://www.palantir.com/students/scholarship/wit-north-america/): $10000 scholarship grant awarded to women.
 * [SWE Scholarships](http://societyofwomenengineers.swe.org/swe-scholarships): Tons of great scholarships!
 
@@ -40,7 +40,7 @@ See this resource for more scholarship resources: [tech-scholarship-resources](h
 
 There are several useful Facebook groups that you should consider joining:
 
-* [Ladies Storm Hackathons](https://www.facebook.com/groups/LadiesStormHackathons): There are also several city/area specific LSH groups that you might want to check out (Bay Area, Seattle etc.). 
+* [Ladies Storm Hackathons (LSH)](https://www.facebook.com/groups/LadiesStormHackathons): There are also several city/area specific LSH groups that you might want to check out (Bay Area, Seattle etc.). 
 * [Tech Ladies](https://www.facebook.com/groups/techladies)
 * [Women Who Reign: Advancing Women In STEM](https://www.facebook.com/groups/ReigningIt)
 * [Society of Women Engineers - SWE Group](https://www.facebook.com/groups/441763142924061)
@@ -49,12 +49,13 @@ There are several useful Facebook groups that you should consider joining:
 ## Other Useful Links
 
 * [Ladies Storm Hackathon GitHub Repo](https://github.com/Ladies-Storm-Hackathons/Resources): Ladies Storm Hackathons is a diversity organization for women in tech.  This repository contains resources on interviewing, negotiating, attending hackthons and diversity focused student organizations.
-* [Grace Hopper](https://ghc.anitab.org/): Attend Grace Hopper! Here are a bunch of scholarships to make it possible for you to attend: [GHC Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships)
+* [Grace Hopper](https://ghc.anitab.org/): Attend Grace Hopper! Here are a bunch of scholarships to make it possible for you to attend: [GHC Scholarships](https://github.com/Ladies-Storm-Hackathons/GHC-Scholarships).
 
 
 ## My Advice
 
-Over the last three years of my undergrad at the University of Washington, I have learnt a lot about navigating the tech space, especially as a women / minority.  My two biggest pieces of advice are the following:
+Over the last three years, I have learnt a lot about navigating the tech space, especially as a women / minority.  My two biggest pieces of advice are the following:
 
-* **Stay Strong**: While tech is a booming space to be in currently, it's not easy navigating it all alone.  Imposter syndrome is _very_ real and it's often something people don't talk about a lot. As you nevigate your undergrad, try your best to stay strong, remember that everyone doesn't have it as well as it seems and that in time, you too will find your footing.
-* **Turn being a minority into an advantage**: There are a lot of resources and opportunities out there for women / minoritites that others might not have access to.  People want you to succeed and are willing to help you in most ways possible.  Take advantage of that, turning being a minority into a positive experience.
+* **Stay Strong**: While tech is a booming space to be in currently, it's not easy navigating it all alone.  Imposter syndrome is _very_ real and it's often something people don't talk about a lot. As you navigate your undergrad, try your best to stay strong, remember that everyone doesn't have it as well as it seems and that in time, you too will find your footing.
+
+* **Turn being a minority into an advantage**: There are a lot of resources and opportunities out there for women / minoritites that others might not have access to.  People want you to succeed and are willing to help you in most ways possible.  Take advantage of that, turn being a minority into a positive experience.
