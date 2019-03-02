@@ -24,6 +24,8 @@ There are a lot of internship resources for minorities as companies want to supp
 * [Google Summer of Code](https://summerofcode.withgoogle.com/archive/): Great way to get some open source exposure.
 * [Twitter Academy](https://careers.twitter.com/content/dam/careers-twitter/university/UR%20Programs_2019.pdf): Internship opportunity for sophomores who are minorities
 * [Code2040 Fellows Program](http://www.code2040.org/fellows-program): Internship opportunity for black and latinx university and graduate students
+* [Outreachy](https://www.outreachy.org): Opensource internship for women and other under-represented groups. One of they best ways to begin opensource. 
+* [RGSoC](https://railsgirlssummerofcode.org): Fellowship program for women and non-binary coders. 
 
 See this resource for ways to help you land that internship: [tech-internship-resources](https://github.com/mitalipalekar/tech-internship-resources).
 
